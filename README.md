@@ -12,7 +12,7 @@
 
 #### 体验环境：http://demo.7x24online.cn/
 #### 扫码获取密码：
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240828141325.png)
+https://7x24.oss-cn-beijing.aliyuncs.com/psvc-admin/admin/file/2024/08/28/17248324752538513.png
 #### 系统截图：
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240814212245.png)
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240814212311.png)
